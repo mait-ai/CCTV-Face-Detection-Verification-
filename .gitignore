@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+.venv/
+__pycache__/
+
+# Temporary files
+*.mp4
+*.avi
+*.mov
+
+# Persistent data files
+face_db.json
+id_to_name.json
+face_log.csv
+
+# IDE files
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
