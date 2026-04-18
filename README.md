@@ -33,17 +33,17 @@ The system processes video input, detects people, extracts faces, generates embe
 ## System Pipeline
 
 Video Input
-⬇
+->
 Person Detection (YOLO)
-⬇
+->
 Face Extraction
-⬇
+->
 Face Embedding Generation
-⬇
+->
 Similarity Search (FAISS)
-⬇
+->
 Identity Matching
-⬇
+->
 Logging & Visualization
 
 ---
